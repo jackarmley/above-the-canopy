@@ -1,8 +1,4 @@
-# Let's go to...
-
----
-
-## Explore the rainforest!
+# Explore the rainforest!
 
 ![A canopy of trees seen from below with the sun streaming through](./static/images/sample.jpg)
 
@@ -11,6 +7,8 @@
 ## You should visit because
 
 Experience the beauty of the oldest continuously surviving rainforest in the world by living high above the canopy in our unique eco cabin.
+
+[link to](#worried-about-heights)
 
 ---
 
